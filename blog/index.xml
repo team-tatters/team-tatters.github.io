@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Tatters Lab Inc.</title><link>/blog/</link><description>Recent content in Posts on Tatters Lab Inc.</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><lastBuildDate>Fri, 05 Jan 2024 05:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>개인사업자에서 법인으로</title><link>/blog/20240105/</link><pubDate>Fri, 05 Jan 2024 05:00:00 +0000</pubDate><guid>/blog/20240105/</guid><description>15년넘게 개발자로 일해오면서 다짐했던게 하나있다. 확실하지 않으면 창업하지 않아야지! IT쪽 스타트업 이라는게, 소프트웨어 기반으로 구축한 생태계는 다른 비즈니스 모델보다 상대적으로 진입장벽이 낮다고 생각된다.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tatters Lab Inc.</title>
+    <link>/blog/</link>
+    <description>Recent content in Posts on Tatters Lab Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
